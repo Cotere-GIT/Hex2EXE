@@ -1,10 +1,12 @@
 On How to use these scripts :
- Run them as administrator. (No, For real, they need to since it edits your execution policy)
- Why? :: Because we aren't signed
- And if you don't want to, just don't use it then.
+Run them as administrator. (No, For real, they need to since it edits your execution policy)
 
+Why? :: Because we aren't signed, and I will not sign them just for a silly project.
+How? :: powershell.exe -ExecutionPolicy Unrestricted -File "script.ps1" | That execution policy
+Applies only to the script.
+But how can i be sure it's safe? :: It's a buncha .ps1 & .cmd files, just look into them
+And if i don't want to? :: Then don't use it, or make it yourself.
 
- 
   for hex2exe
   Put your input.txt with a valid string (often made by exe2hex.cmd) inside scripts
   run hex2exe (Powershell5 version for older powershell)
