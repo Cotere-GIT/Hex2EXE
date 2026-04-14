@@ -1,5 +1,8 @@
 On How to use these scripts
-Run them as administrator (No, For real, they need to since it edits your execution policy)
+ Run them as administrator (No, For real, they need to since it edits your execution policy)
+
+
+ 
   for hex2exe
   Put your input.txt with a valid string (often made by exe2hex.cmd) inside scripts
   run hex2exe (Powershell5 version for older powershell)
