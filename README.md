@@ -1,5 +1,7 @@
-On How to use these scripts
- Run them as administrator (No, For real, they need to since it edits your execution policy)
+On How to use these scripts :
+ Run them as administrator. (No, For real, they need to since it edits your execution policy)
+ Why? :: Because we aren't signed
+ And if you don't want to, just don't use it then.
 
 
  
