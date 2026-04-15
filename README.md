@@ -26,3 +26,4 @@ And if i don't want to? :: Then don't use it, or make it yourself.
   ex: input.exe is a zip file
   rename your {anything}.zip to input.exe
  
+PS : This is a silly project done in like 5 minutes
